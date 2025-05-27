@@ -1,5 +1,5 @@
 # This program will calculate the multiples of specific number
-# For multiples, it's requied the formula m=k*i
+# For multiples, it's required the formula m=k*i
 # m stands for multiple, it's the result
 # k is a constant number
 # n is a natural number

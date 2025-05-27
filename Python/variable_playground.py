@@ -1,5 +1,5 @@
-# Python does not seem to have an variable type declaration like C 
-# Simple and pratical if I am going to be honest ;3
+# Python does not seem to have a variable type declaration like C
+# Simple and practical if I am going to be honest ;3
 
 x = 0
 name = "Pedro"
@@ -18,12 +18,12 @@ person_name_2 = "Ana"
 # Using multiple vars in a single print.
 print(person_name_1, "talked with", person_name_2)
 
-# But... we can speficy the variable type.
+# But... we can specify the variable type.
 
 k = int(5)
 l = float(5.12)
-lable_txt = str(920.10)
+label_txt = str(920.10)
 
 print(k * l)
 print(k / l)
-print(lable_txt)
+print(label_txt)
