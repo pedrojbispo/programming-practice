@@ -16,7 +16,6 @@ public class fibonacci_print {
                 fib_num = fib.get(i-1) + fib.get(i-2);
                 fib.add(fib_num);
             }
-
         }
         System.out.println(fib);
     }
